@@ -1,0 +1,19 @@
+$uchicago-maroon: maroon;
+$uchicago-light-gray: lightgrey;
+$uchicago-gray: grey;
+
+body {
+    background-color: $uchicago-light-gray;
+    color: $uchicago-maroon;
+}
+
+
+    .header {
+        background-color: $uchicago-light-gray;
+        color: $uchicago-maroon;
+    }
+
+    .footer {
+        background-color: $uchicago-gray;
+        color: $uchicago-light-gray;
+    }
